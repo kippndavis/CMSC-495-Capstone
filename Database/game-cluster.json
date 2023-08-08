@@ -1,0 +1,50 @@
+{
+  "backupEnabled": false,
+  "biConnector": {
+    "enabled": false,
+    "readPreference": "secondary"
+  },
+  "clusterType": "REPLICASET",
+  "connectionStrings": {
+    "standard": "mongodb://ac-cbzgmwj-shard-00-00.u7kyoxg.mongodb.net:27017,ac-cbzgmwj-shard-00-01.u7kyoxg.mongodb.net:27017,ac-cbzgmwj-shard-00-02.u7kyoxg.mongodb.net:27017/?ssl=true\u0026authSource=admin\u0026replicaSet=atlas-omrt7t-shard-0",
+    "standardSrv": "mongodb+srv://game-cluster.u7kyoxg.mongodb.net"
+  },
+  "createDate": "2023-07-06T01:57:03Z",
+  "diskSizeGB": 0.5,
+  "encryptionAtRestProvider": "NONE",
+  "groupId": "64a4c037d1c62007c7b3b6d7",
+  "id": "64a61f6f07fb3f056ff46e60",
+  "labels": [
+    {
+      "key": "Infrastructure Tool",
+      "value": "Atlas CLI"
+    }
+  ],
+  "mongoDBMajorVersion": "6.0",
+  "mongoDBVersion": "6.0.6",
+  "name": "game-cluster",
+  "paused": false,
+  "pitEnabled": false,
+  "replicationSpecs": [
+    {
+      "id": "64a61f6f07fb3f056ff46e59",
+      "numShards": 1,
+      "regionConfigs": [
+        {
+          "electableSpecs": {
+            "instanceSize": "M0"
+          },
+          "priority": 7,
+          "providerName": "TENANT",
+          "regionName": "US_EAST_1",
+          "backingProviderName": "AWS"
+        }
+      ],
+      "zoneName": "Zone 1"
+    }
+  ],
+  "rootCertType": "ISRGROOTX1",
+  "stateName": "IDLE",
+  "terminationProtectionEnabled": false,
+  "versionReleaseSystem": "LTS"
+}

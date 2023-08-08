@@ -1,0 +1,1216 @@
+{
+  "_id": { "$oid": "64cf6d1110a87634ea8bf3f8" },
+  "module": {
+    "number": { "$numberInt": "1" },
+    "name": "Entertainment",
+    "questions": { "$numberInt": "110" },
+    "revision": "2023-07-18"
+  },
+  "questions": [
+    {
+      "number": { "$numberInt": "0" },
+      "question": "Who directed the movie 'Inception'?",
+      "answers": [
+        "Christopher Nolan",
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Steven Spielberg"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "1" },
+      "question": "Which actor played the character Tony Stark / Iron Man in the Marvel Cinematic Universe?",
+      "answers": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "2" },
+      "question": "Who created the TV series 'Friends'?",
+      "answers": [
+        "David Crane and Marta Kauffman",
+        "Jerry Seinfeld and Larry David",
+        "J.J. Abrams",
+        "Tina Fey"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "3" },
+      "question": "Which actor portrayed the character Walter White in the TV series 'Breaking Bad'?",
+      "answers": [
+        "Bryan Cranston",
+        "Aaron Paul",
+        "Bob Odenkirk",
+        "Jonathan Banks"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "4" },
+      "question": "Which video game franchise features a character named Luigi?",
+      "answers": [
+        "The Legend of Zelda",
+        "Super Mario",
+        "Grand Theft Auto",
+        "Call of Duty"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "5" },
+      "question": "Who directed the movie 'Pulp Fiction'?",
+      "answers": [
+        "Christopher Nolan",
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Steven Spielberg"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "6" },
+      "question": "Which actor played the character Harry Potter in the film series of the same name?",
+      "answers": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Tom Felton"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "7" },
+      "question": "Who is the creator of the TV series 'The Office'?",
+      "answers": [
+        "Greg Daniels",
+        "Ricky Gervais",
+        "Steve Carell",
+        "Stephen Merchant"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "8" },
+      "question": "Which actress portrayed the character Daenerys Targaryen in the TV series 'Game of Thrones'?",
+      "answers": [
+        "Emilia Clarke",
+        "Sophie Turner",
+        "Maisie Williams",
+        "Lena Headey"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "9" },
+      "question": "Which video game franchise features a character named Master Chief?",
+      "answers": [
+        "Halo",
+        "Final Fantasy",
+        "Assassin's Creed",
+        "The Elder Scrolls"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "10" },
+      "question": "Who directed the movie 'The Dark Knight'?",
+      "answers": [
+        "Christopher Nolan",
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Steven Spielberg"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "11" },
+      "question": "Which actor played the character Luke Skywalker in the original 'Star Wars' trilogy?",
+      "answers": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Anthony Daniels"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "12" },
+      "question": "Who created the TV series 'Stranger Things'?",
+      "answers": [
+        "The Duffer Brothers",
+        "J.J. Abrams",
+        "Ryan Murphy",
+        "Vince Gilligan"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "13" },
+      "question": "Which actor portrayed the character Tony Soprano in the TV series 'The Sopranos'?",
+      "answers": [
+        "James Gandolfini",
+        "Edie Falco",
+        "Michael Imperioli",
+        "Lorraine Bracco"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "14" },
+      "question": "Which video game franchise features a character named Lara Croft?",
+      "answers": [
+        "Resident Evil",
+        "Tomb Raider",
+        "Uncharted",
+        "Street Fighter"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "15" },
+      "question": "Who directed the movie 'The Shawshank Redemption'?",
+      "answers": [
+        "Christopher Nolan",
+        "Martin Scorsese",
+        "Frank Darabont",
+        "David Fincher"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "16" },
+      "question": "Which actress played the character Hermione Granger in the 'Harry Potter' film series?",
+      "answers": [
+        "Emma Watson",
+        "Emma Thompson",
+        "Helena Bonham Carter",
+        "Maggie Smith"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "17" },
+      "question": "Who is the creator of the TV series 'Stranger Things'?",
+      "answers": [
+        "The Duffer Brothers",
+        "J.J. Abrams",
+        "Ryan Murphy",
+        "Vince Gilligan"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "18" },
+      "question": "Which actor portrayed the character Tony Stark / Iron Man in the Marvel Cinematic Universe?",
+      "answers": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "19" },
+      "question": "Who directed the movie 'The Godfather'?",
+      "answers": [
+        "Francis Ford Coppola",
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "Alfred Hitchcock"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "20" },
+      "question": "Which actress portrayed the character Katniss Everdeen in 'The Hunger Games' film series?",
+      "answers": [
+        "Jennifer Lawrence",
+        "Emma Stone",
+        "Shailene Woodley",
+        "Natalie Portman"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "21" },
+      "question": "Who is the creator of the TV series 'The Simpsons'?",
+      "answers": [
+        "Matt Groening",
+        "Seth MacFarlane",
+        "Mike Judge",
+        "Trey Parker"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "22" },
+      "question": "Which actor played the character James Bond in the film 'Casino Royale'?",
+      "answers": [
+        "Daniel Craig",
+        "Pierce Brosnan",
+        "Sean Connery",
+        "Roger Moore"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "23" },
+      "question": "Who directed the movie 'The Matrix'?",
+      "answers": [
+        "Christopher Nolan",
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Lana and Lilly Wachowski"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "24" },
+      "question": "Which actress played the character Rey in the sequel trilogy of 'Star Wars'?",
+      "answers": [
+        "Daisy Ridley",
+        "Felicity Jones",
+        "Keira Knightley",
+        "Natalie Portman"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "25" },
+      "question": "Who is the creator of the TV series 'Breaking Bad'?",
+      "answers": [
+        "Vince Gilligan",
+        "David Chase",
+        "Matthew Weiner",
+        "David Simon"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "26" },
+      "question": "Which actor portrayed the character Jack Sparrow in the 'Pirates of the Caribbean' film series?",
+      "answers": [
+        "Johnny Depp",
+        "Orlando Bloom",
+        "Geoffrey Rush",
+        "Javier Bardem"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "27" },
+      "question": "Who directed the movie 'Fight Club'?",
+      "answers": [
+        "Christopher Nolan",
+        "Martin Scorsese",
+        "David Fincher",
+        "Quentin Tarantino"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "28" },
+      "question": "Which actress portrayed the character Eleven in the TV series 'Stranger Things'?",
+      "answers": [
+        "Millie Bobby Brown",
+        "Winona Ryder",
+        "Natalia Dyer",
+        "Finn Wolfhard"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "29" },
+      "question": "Which video game franchise features a character named Link?",
+      "answers": [
+        "Final Fantasy",
+        "The Legend of Zelda",
+        "Assassin's Creed",
+        "Resident Evil"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "30" },
+      "question": "Who directed the movie 'Jurassic Park'?",
+      "answers": [
+        "Steven Spielberg",
+        "George Lucas",
+        "James Cameron",
+        "Peter Jackson"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "31" },
+      "question": "Which actor played the character Neo in 'The Matrix' film series?",
+      "answers": [
+        "Keanu Reeves",
+        "Hugo Weaving",
+        "Lawrence Fishburne",
+        "Carrie-Anne Moss"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "32" },
+      "question": "Who created the TV series 'The Walking Dead'?",
+      "answers": [
+        "Frank Darabont",
+        "Robert Kirkman",
+        "Andrew Lincoln",
+        "Norman Reedus"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "33" },
+      "question": "Which actor portrayed the character Jon Snow in the TV series 'Game of Thrones'?",
+      "answers": [
+        "Kit Harington",
+        "Peter Dinklage",
+        "Emilia Clarke",
+        "Sophie Turner"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "34" },
+      "question": "Which video game franchise features a character named Knuckles?",
+      "answers": [
+        "Super Mario",
+        "Sonic the Hedgehog",
+        "Street Fighter",
+        "Mortal Kombat"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "35" },
+      "question": "Who directed the movie 'The Avengers'?",
+      "answers": [
+        "Christopher Nolan",
+        "Martin Scorsese",
+        "Joss Whedon",
+        "James Gunn"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "36" },
+      "question": "Which actress portrayed the character Katniss Everdeen in 'The Hunger Games' film series?",
+      "answers": [
+        "Jennifer Lawrence",
+        "Emma Stone",
+        "Shailene Woodley",
+        "Natalie Portman"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "37" },
+      "question": "Who is the creator of the TV series 'Breaking Bad'?",
+      "answers": [
+        "Vince Gilligan",
+        "David Chase",
+        "Matthew Weiner",
+        "David Simon"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "38" },
+      "question": "Which actor played the character Jack Sparrow in the 'Pirates of the Caribbean' film series?",
+      "answers": [
+        "Johnny Depp",
+        "Orlando Bloom",
+        "Geoffrey Rush",
+        "Javier Bardem"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "39" },
+      "question": "Who directed the movie 'The Lion King' (1994)?",
+      "answers": [
+        "Brad Bird",
+        "Ron Clements",
+        "Jon Favreau",
+        "Roger Allers"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "40" },
+      "question": "Which actor portrayed the character Captain Jack Harkness in the TV series 'Doctor Who'?",
+      "answers": [
+        "John Barrowman",
+        "David Tennant",
+        "Christopher Eccleston",
+        "Matt Smith"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "41" },
+      "question": "Who is the creator of the TV series 'Friends'?",
+      "answers": [
+        "David Crane and Marta Kauffman",
+        "Jerry Seinfeld and Larry David",
+        "J.J. Abrams",
+        "Tina Fey"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "42" },
+      "question": "Which actress portrayed the character Eleven in the TV series 'Stranger Things'?",
+      "answers": [
+        "Millie Bobby Brown",
+        "Winona Ryder",
+        "Natalia Dyer",
+        "Finn Wolfhard"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "43" },
+      "question": "Who directed the movie 'The Lord of the Rings: The Fellowship of the Ring'?",
+      "answers": [
+        "Peter Jackson",
+        "George Lucas",
+        "Steven Spielberg",
+        "James Cameron"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "44" },
+      "question": "Which actor played the character Jon Snow in the TV series 'Game of Thrones'?",
+      "answers": [
+        "Kit Harington",
+        "Peter Dinklage",
+        "Emilia Clarke",
+        "Sophie Turner"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "45" },
+      "question": "Who is the creator of the TV series 'The Office'?",
+      "answers": [
+        "Greg Daniels",
+        "Ricky Gervais",
+        "Steve Carell",
+        "Stephen Merchant"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "46" },
+      "question": "Which actress portrayed the character Hermione Granger in the 'Harry Potter' film series?",
+      "answers": [
+        "Emma Watson",
+        "Emma Thompson",
+        "Helena Bonham Carter",
+        "Maggie Smith"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "47" },
+      "question": "Who directed the movie 'The Dark Knight'?",
+      "answers": [
+        "Christopher Nolan",
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Steven Spielberg"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "48" },
+      "question": "Which actor played the character Gollum in 'The Lord of the Rings' film series?",
+      "answers": [
+        "Andy Serkis",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "Elijah Wood"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "49" },
+      "question": "Who directed the movie 'Jaws'?",
+      "answers": [
+        "Steven Spielberg",
+        "George Lucas",
+        "Martin Scorsese",
+        "Alfred Hitchcock"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "50" },
+      "question": "Which video game was first to feature the concept of a 'boss' enemy?",
+      "answers": [
+        "Galaga",
+        "Donkey Kong",
+        "Space Invaders",
+        "Druaga no Tō (The Tower of Druaga)"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "51" },
+      "question": "What was the code name for the GameCube during its development phase?",
+      "answers": [
+        "Project Dolphin",
+        "Project Revolution",
+        "Project Neptune",
+        "Project Atlas"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "52" },
+      "question": "In which game did the Konami Code first appear?",
+      "answers": [
+        "Contra",
+        "Gradius",
+        "Castlevania",
+        "Metal Gear"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "53" },
+      "question": "Which game featured a protagonist named 'Jumpman'?",
+      "answers": [
+        "Pac-Man",
+        "Mega Man",
+        "Donkey Kong",
+        "Space Jump"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "54" },
+      "question": "Which company developed the game 'System Shock'?",
+      "answers": [
+        "id Software",
+        "2K Games",
+        "Blizzard Entertainment",
+        "Looking Glass Studios"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "55" },
+      "question": "Which classic game was originally titled 'Highway Crossing Frog'?",
+      "answers": [
+        "Space Invaders",
+        "Pac-Man",
+        "Frogger",
+        "Asteroids"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "56" },
+      "question": "In the original 'Legend of Zelda' game, who is the main antagonist?",
+      "answers": [
+        "Ganondorf",
+        "Vaati",
+        "Dark Link",
+        "Ganon"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "57" },
+      "question": "Which video game was cited in the Guinness World Records as the most ported video game in history?",
+      "answers": [
+        "Tetris",
+        "Super Mario Bros.",
+        "Pong",
+        "Doom"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "58" },
+      "question": "What was the first commercially sold video game?",
+      "answers": [
+        "Pong",
+        "Spacewar!",
+        "Computer Space",
+        "Odyssey"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "59" },
+      "question": "What was the first game to be released for the Sega Genesis?",
+      "answers": [
+        "Sonic the Hedgehog",
+        "Altered Beast",
+        "Golden Axe",
+        "Streets of Rage"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "60" },
+      "question": "Which game started as a mod for 'Half-Life'?",
+      "answers": [
+        "Team Fortress",
+        "Counter-Strike",
+        "Day of Defeat",
+        "Portal"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "61" },
+      "question": "What was the first game to feature Mario?",
+      "answers": [
+        "Mario Bros.",
+        "Super Mario Bros.",
+        "Donkey Kong",
+        "Mario Land"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "62" },
+      "question": "Which video game console was the successor to the Sony PlayStation 1?",
+      "answers": [
+        "PlayStation Vita",
+        "PlayStation 3",
+        "PlayStation Portable",
+        "PlayStation 2"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "63" },
+      "question": "Which of these arcade games was developed by the legendary Shigeru Miyamoto before he became famous for creating 'Super Mario Bros.'?",
+      "answers": [
+        "Galaxian",
+        "Popeye",
+        "Defender",
+        "Bosconian"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "64" },
+      "question": "Which arcade game, released in 1976, is considered one of the first fighting games?",
+      "answers": [
+        "Heavyweight Champ",
+        "Street Fighter",
+        "Tekken",
+        "Mortal Kombat"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "65" },
+      "question": "The arcade game 'Joust' featured players riding what creatures?",
+      "answers": [
+        "Dragons",
+        "Unicorns",
+        "Griffins",
+        "Ostriches"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "66" },
+      "question": "Which film was Stanley Kubrick's adaptation of a Stephen King novel?",
+      "answers": [
+        "Full Metal Jacket",
+        "Eyes Wide Shut",
+        "A Clockwork Orange",
+        "The Shining"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "67" },
+      "question": "Which film won the Academy Award for Best Picture in 1995?",
+      "answers": [
+        "Pulp Fiction",
+        "Shawshank Redemption",
+        "Forrest Gump",
+        "Braveheart"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "68" },
+      "question": "Which actor portrayed the character of Norman Bates in Alfred Hitchcock's 'Psycho'?",
+      "answers": [
+        "James Stewart",
+        "Anthony Perkins",
+        "Gregory Peck",
+        "Tony Curtis"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "69" },
+      "question": "What is the name of the fictional African country in 'Black Panther'?",
+      "answers": [
+        "Zamunda",
+        "Genovia",
+        "Elbonia",
+        "Wakanda"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "70" },
+      "question": "Which movie features a pivotal scene with a character named 'Keyser Söze'?",
+      "answers": [
+        "The Sixth Sense",
+        "The Usual Suspects",
+        "Fight Club",
+        "Memento"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "71" },
+      "question": "In 'Citizen Kane', the mystery revolves around the meaning of which word?",
+      "answers": [
+        "Elusive",
+        "Evergreen",
+        "Rosebud",
+        "Citizen"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "72" },
+      "question": "Who directed 'Goodfellas'?",
+      "answers": [
+        "Francis Ford Coppola",
+        "Quentin Tarantino",
+        "Brian De Palma",
+        "Martin Scorsese"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "73" },
+      "question": "Which film features the famous line, 'You can't handle the truth!'?",
+      "answers": [
+        "A Few Good Men",
+        "The Departed",
+        "Platoon",
+        "Full Metal Jacket"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "74" },
+      "question": "Which film does not belong to the 'Man With No Name' trilogy by Sergio Leone?",
+      "answers": [
+        "For a Few Dollars More",
+        "The Good, the Bad, and the Ugly",
+        "A Fistful of Dollars",
+        "Once Upon a Time in the West"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "75" },
+      "question": "Which film was the debut of the famous character Indiana Jones?",
+      "answers": [
+        "Indiana Jones and the Last Crusade",
+        "Indiana Jones and the Temple of Doom",
+        "Raiders of the Lost Ark",
+        "Indiana Jones and the Kingdom of the Crystal Skull"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "76" },
+      "question": "In which book can you find the character named Bilbo Baggins?",
+      "answers": [
+        "The Hobbit",
+        "Pride and Prejudice",
+        "To Kill a Mockingbird",
+        "The Catcher in the Rye"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "77" },
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "answers": [
+        "Emily Bronte",
+        "Virginia Woolf",
+        "Charlotte Bronte",
+        "Jane Austen"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "78" },
+      "question": "Who wrote 'The Chronicles of Narnia' series?",
+      "answers": [
+        "C.S. Lewis",
+        "Philip Pullman",
+        "Roald Dahl",
+        "L. Frank Baum"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "79" },
+      "question": "Which novel by George Orwell is set in a dystopian future where 'Big Brother' watches everyone?",
+      "answers": [
+        "Brave New World",
+        "Fahrenheit 451",
+        "1984",
+        "Animal Farm"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "80" },
+      "question": "Who wrote 'The Old Man and the Sea'?",
+      "answers": [
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway",
+        "William Faulkner",
+        "John Steinbeck"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "81" },
+      "question": "In 'Alice's Adventures in Wonderland', who keeps yelling, 'Off with her head!'?",
+      "answers": [
+        "The White Rabbit",
+        "The Mad Hatter",
+        "The March Hare",
+        "The Queen of Hearts"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "82" },
+      "question": "In 'The Wonderful Wizard of Oz', besides her dog Toto, what does Dorothy carry with her on her journey to see the Wizard?",
+      "answers": [
+        "A basket",
+        "A wand",
+        "A map",
+        "A broomstick"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "83" },
+      "question": "In 'Lord of the Flies', what object do the boys use to start fires?",
+      "answers": [
+        "Sticks",
+        "A lighter",
+        "A magnifying glass",
+        "Glasses"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "84" },
+      "question": "In the movie 'Forrest Gump', what sport does Jenny encourage Forrest to run in?",
+      "answers": [
+        "Baseball",
+        "Soccer",
+        "Football",
+        "Basketball"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "85" },
+      "question": "In 'The Wizard of Oz', what does Dorothy need to click together to return home?",
+      "answers": [
+        "Her necklace",
+        "Her ruby slippers",
+        "Her wand",
+        "Her purse"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "86" },
+      "question": "In 'Titanic', where are Jack and Rose when the ship hits the iceberg?",
+      "answers": [
+        "At dinner",
+        "In bed",
+        "On the bow of the ship",
+        "In a car"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "87" },
+      "question": "In 'Jaws', what type of animal terrorizes the beach community?",
+      "answers": [
+        "Shark",
+        "Whale",
+        "Octopus",
+        "Dolphin"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "88" },
+      "question": "In 'Jurassic Park', which type of dinosaur breaks out of its enclosure and wreaks havoc?",
+      "answers": [
+        "Velociraptor",
+        "Brachiosaurus",
+        "Triceratops",
+        "T-Rex"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "89" },
+      "question": "In 'Star Wars: A New Hope', who is Luke Skywalker's mentor?",
+      "answers": [
+        "Darth Vader",
+        "Obi-Wan Kenobi",
+        "Yoda",
+        "Han Solo"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "90" },
+      "question": "In 'The Godfather', what profession is Vito Corleone involved in?",
+      "answers": [
+        "Law",
+        "Construction",
+        "Organized Crime",
+        "Banking"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "91" },
+      "question": "In 'Casablanca', what is the name of Rick's cafe?",
+      "answers": [
+        "Cafe Del Mar",
+        "Rick's Cafe Americain",
+        "Cafe Noir",
+        "Cafe Casablanca"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "92" },
+      "question": "In 'E.T. the Extra-Terrestrial', what candy is used to lure E.T.?",
+      "answers": [
+        "M&M's",
+        "Skittles",
+        "Reese's Pieces",
+        "Starburst"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "93" },
+      "question": "In 'Gone with the Wind', what is the name of Scarlett O'Hara's plantation?",
+      "answers": [
+        "Rosehill",
+        "Tara",
+        "Belle Reeve",
+        "Magnolia"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "94" },
+      "question": "In 'The Shawshank Redemption', what poster covers the escape hole in Andy Dufresne's cell?",
+      "answers": [
+        "Rita Hayworth",
+        "Marilyn Monroe",
+        "Audrey Hepburn",
+        "Raquel Welch"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "95" },
+      "question": "In 'Back to the Future', which year does Marty McFly travel back to?",
+      "answers": ["1955", "1965", "1975", "1985"],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "96" },
+      "question": "In 'Psycho', who runs the Bates Motel?",
+      "answers": [
+        "Norman Bates",
+        "Sam Loomis",
+        "Milton Arbogast",
+        "Tom Cassidy"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "97" },
+      "question": "In 'Indiana Jones and the Last Crusade', who plays Indiana Jones' father?",
+      "answers": [
+        "Harrison Ford",
+        "Sean Connery",
+        "Tommy Lee Jones",
+        "Liam Neeson"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "98" },
+      "question": "In 'Pretty Woman', what is the occupation of Richard Gere's character?",
+      "answers": [
+        "Lawyer",
+        "Businessman",
+        "Pilot",
+        "Doctor"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "99" },
+      "question": "In 'The Sound of Music', which song does Maria sing as she walks to the von Trapp house for the first time?",
+      "answers": [
+        "Edelweiss",
+        "Do-Re-Mi",
+        "The Lonely Goatherd",
+        "I Have Confidence"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "100" },
+      "question": "In 'Toy Story', who is Andy's cowboy toy?",
+      "answers": [
+        "Buzz Lightyear",
+        "Mr. Potato Head",
+        "Slinky Dog",
+        "Woody"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "101" },
+      "question": "In 'The Matrix', what pill does Neo take to learn the truth about the Matrix?",
+      "answers": [
+        "Blue Pill",
+        "Red Pill",
+        "Green Pill",
+        "Yellow Pill"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "102" },
+      "question": "In 'The Silence of the Lambs', who is the cannibalistic psychiatrist?",
+      "answers": [
+        "Buffalo Bill",
+        "Hannibal Lecter",
+        "Jack Crawford",
+        "Mason Verger"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "103" },
+      "question": "In 'Die Hard', what building is John McClane trapped in?",
+      "answers": [
+        "Stark Tower",
+        "Nakatomi Plaza",
+        "Wayne Enterprises",
+        "Gruber Mansion"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "104" },
+      "question": "In the film 'Blade Runner', which test is used to determine if someone is a replicant?",
+      "answers": [
+        "Voight-Kampff Test",
+        "Tyrell Examination",
+        "Deckard Analysis",
+        "Rachael's Questionnaire"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "105" },
+      "question": "In the film 'Inception', what object does Cobb use to determine if he's in a dream or reality?",
+      "answers": [
+        "A clock",
+        "A ring",
+        "A totem",
+        "A mirror"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "106" },
+      "question": "In 'Memento', why is Leonard Shelby unable to create new long-term memories?",
+      "answers": [
+        "He has amnesia",
+        "He has Alzheimer's disease",
+        "He suffered a traumatic injury",
+        "He was born with a memory disorder"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "107" },
+      "question": "In 'Half-Life 2', what organization is Dr. Gordon Freeman fighting against?",
+      "answers": [
+        "Umbrella Corporation",
+        "Aperture Science",
+        "The Combine",
+        "Black Mesa"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "108" },
+      "question": "In 'A Clockwork Orange', what classical composer's music triggers violent tendencies in Alex?",
+      "answers": [
+        "Mozart",
+        "Beethoven",
+        "Bach",
+        "Chopin"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "109" },
+      "question": "In 'The Shining', what phrase does Jack Torrance repeatedly type on his typewriter?",
+      "answers": [
+        "All work and no play makes Jack a dull boy",
+        "The quick brown fox jumps over the lazy dog",
+        "Shine on, you crazy diamond",
+        "Redrum, redrum, redrum"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    }
+  ]
+}

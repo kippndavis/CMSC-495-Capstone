@@ -1,0 +1,3 @@
+include 'desktop', 'ios', 'html', 'core'
+
+//add android in single quotes between ios and desktop to restore it

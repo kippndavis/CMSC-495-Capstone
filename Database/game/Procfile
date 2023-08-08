@@ -1,0 +1,1 @@
+web: java -jar build/libs/game-0.1.jar

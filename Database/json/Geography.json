@@ -1,0 +1,1199 @@
+{
+  "_id": { "$oid": "64cf6ce910a87634ea8bf3f7" },
+  "module": {
+    "number": { "$numberInt": "1" },
+    "name": "Geography",
+    "questions": { "$numberInt": "108" },
+    "revision": "2023-07-18"
+  },
+  "questions": [
+    {
+      "number": { "$numberInt": "0" },
+      "question": "What is the capital city of Canada?",
+      "answers": [
+        "Ottawa",
+        "Toronto",
+        "Vancouver",
+        "Montreal"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "1" },
+      "question": "Which continent is home to the Sahara Desert?",
+      "answers": [
+        "Africa",
+        "Asia",
+        "South America",
+        "Australia"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "2" },
+      "question": "Which country is the largest in terms of land area?",
+      "answers": [
+        "Russia",
+        "Canada",
+        "China",
+        "United States"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "3" },
+      "question": "Which river is the longest in the world?",
+      "answers": [
+        "Nile",
+        "Amazon",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "4" },
+      "question": "Which mountain range is located in North America?",
+      "answers": [
+        "Rocky Mountains",
+        "Andes",
+        "Himalayas",
+        "Alps"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "5" },
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "answers": [
+        "Japan",
+        "China",
+        "South Korea",
+        "Vietnam"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "6" },
+      "question": "Which city is located on the banks of the River Thames?",
+      "answers": [
+        "London",
+        "Paris",
+        "Rome",
+        "New York City"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "7" },
+      "question": "Which country is the largest producer of coffee in the world?",
+      "answers": [
+        "Brazil",
+        "Colombia",
+        "Vietnam",
+        "Ethiopia"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "8" },
+      "question": "Which ocean is the largest in terms of surface area?",
+      "answers": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "9" },
+      "question": "Which country is the smallest in terms of land area?",
+      "answers": [
+        "Vatican City",
+        "Monaco",
+        "Nauru",
+        "Tuvalu"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "10" },
+      "question": "What is the official language of Brazil?",
+      "answers": [
+        "Portuguese",
+        "Spanish",
+        "English",
+        "French"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "11" },
+      "question": "Which country is the largest archipelago in the world?",
+      "answers": [
+        "Indonesia",
+        "Philippines",
+        "Japan",
+        "New Zealand"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "12" },
+      "question": "Which continent is the driest inhabited continent on Earth?",
+      "answers": [
+        "Australia",
+        "Africa",
+        "North America",
+        "Europe"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "13" },
+      "question": "Which country is known as the 'Land of Fire and Ice'?",
+      "answers": [
+        "Iceland",
+        "Greenland",
+        "Finland",
+        "Norway"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "14" },
+      "question": "Which city is located at the confluence of the Blue Nile and White Nile rivers?",
+      "answers": [
+        "Khartoum",
+        "Cairo",
+        "Nairobi",
+        "Addis Ababa"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "15" },
+      "question": "Which country is the largest in South America?",
+      "answers": [
+        "Brazil",
+        "Argentina",
+        "Colombia",
+        "Peru"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "16" },
+      "question": "Which desert is located in the southwestern United States and northern Mexico?",
+      "answers": [
+        "Sonoran Desert",
+        "Sahara Desert",
+        "Gobi Desert",
+        "Mojave Desert"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "17" },
+      "question": "Which country is known as the 'Land Down Under'?",
+      "answers": [
+        "Australia",
+        "New Zealand",
+        "Fiji",
+        "Papua New Guinea"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "18" },
+      "question": "Which city is located on the eastern coast of the United States?",
+      "answers": [
+        "New York City",
+        "Los Angeles",
+        "Chicago",
+        "Miami"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "19" },
+      "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+      "answers": [
+        "Finland",
+        "Sweden",
+        "Norway",
+        "Canada"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "20" },
+      "question": "Which country is located on the Iberian Peninsula?",
+      "answers": [
+        "Spain",
+        "France",
+        "Italy",
+        "Greece"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "21" },
+      "question": "Which country is known as the 'Land of Smiles'?",
+      "answers": [
+        "Thailand",
+        "India",
+        "China",
+        "Cambodia"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "22" },
+      "question": "Which river flows through the Grand Canyon?",
+      "answers": [
+        "Colorado River",
+        "Mississippi River",
+        "Amazon River",
+        "Nile River"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "23" },
+      "question": "Which country is the largest in terms of population?",
+      "answers": [
+        "China",
+        "India",
+        "United States",
+        "Indonesia"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "24" },
+      "question": "Which city is located on the banks of the Danube River?",
+      "answers": [
+        "Vienna",
+        "Budapest",
+        "Belgrade",
+        "Prague"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "25" },
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "answers": [
+        "Japan",
+        "China",
+        "South Korea",
+        "Vietnam"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "26" },
+      "question": "Which country is the largest producer of oil in the world?",
+      "answers": [
+        "United States",
+        "Saudi Arabia",
+        "Russia",
+        "Canada"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "27" },
+      "question": "Which city is located on the eastern coast of Australia?",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane",
+        "Perth"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "28" },
+      "question": "Which country is the smallest in terms of population?",
+      "answers": [
+        "Vatican City",
+        "Tuvalu",
+        "Nauru",
+        "Palau"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "29" },
+      "question": "Which continent is home to the Amazon Rainforest?",
+      "answers": [
+        "South America",
+        "Africa",
+        "Asia",
+        "Australia"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "30" },
+      "question": "Which country is the largest in terms of coastline length?",
+      "answers": [
+        "Canada",
+        "Indonesia",
+        "Norway",
+        "Australia"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "31" },
+      "question": "Which city is located on the eastern coast of China?",
+      "answers": [
+        "Shanghai",
+        "Beijing",
+        "Hong Kong",
+        "Guangzhou"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "32" },
+      "question": "Which country is known as the 'Land of Fire and Ice'?",
+      "answers": [
+        "Iceland",
+        "Greenland",
+        "Finland",
+        "Norway"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "33" },
+      "question": "Which country is located on the island of Borneo?",
+      "answers": [
+        "Indonesia",
+        "Malaysia",
+        "Brunei",
+        "Philippines"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "34" },
+      "question": "Which desert is located in Africa?",
+      "answers": [
+        "Sahara Desert",
+        "Arabian Desert",
+        "Atacama Desert",
+        "Gobi Desert"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "35" },
+      "question": "Which country is known as the 'Land of the Midnight Sun'?",
+      "answers": [
+        "Norway",
+        "Sweden",
+        "Finland",
+        "Iceland"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "36" },
+      "question": "Which country is the largest in terms of land area?",
+      "answers": [
+        "Russia",
+        "Canada",
+        "China",
+        "United States"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "37" },
+      "question": "Which river is the longest in Europe?",
+      "answers": [
+        "Volga River",
+        "Danube River",
+        "Rhine River",
+        "Seine River"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "38" },
+      "question": "Which country is located on the island of Java?",
+      "answers": [
+        "Indonesia",
+        "Malaysia",
+        "Philippines",
+        "Singapore"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "39" },
+      "question": "Which country is known as the 'Land of the Pharaohs'?",
+      "answers": [
+        "Egypt",
+        "Morocco",
+        "Tunisia",
+        "Algeria"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "40" },
+      "question": "Which city is located on the eastern coast of the United States?",
+      "answers": [
+        "New York City",
+        "Los Angeles",
+        "Chicago",
+        "Miami"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "41" },
+      "question": "Which country is known as the 'Land of a Thousand Smiles'?",
+      "answers": [
+        "Thailand",
+        "Vietnam",
+        "Laos",
+        "Cambodia"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "42" },
+      "question": "Which country is located on the Arabian Peninsula?",
+      "answers": [
+        "Saudi Arabia",
+        "United Arab Emirates",
+        "Qatar",
+        "Kuwait"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "43" },
+      "question": "Which country is known as the 'Land of the Long White Cloud'?",
+      "answers": [
+        "New Zealand",
+        "Australia",
+        "Fiji",
+        "Papua New Guinea"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "44" },
+      "question": "Which city is located on the banks of the Ganges River?",
+      "answers": [
+        "Varanasi",
+        "Delhi",
+        "Kolkata",
+        "Mumbai"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "45" },
+      "question": "Which country is the largest producer of diamonds in the world?",
+      "answers": [
+        "Russia",
+        "Canada",
+        "Botswana",
+        "South Africa"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "46" },
+      "question": "Which country is located on the Scandinavian Peninsula?",
+      "answers": [
+        "Norway",
+        "Sweden",
+        "Finland",
+        "Denmark"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "47" },
+      "question": "Which city is located on the eastern coast of India?",
+      "answers": [
+        "Chennai",
+        "Mumbai",
+        "Kolkata",
+        "New Delhi"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "48" },
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "answers": [
+        "Japan",
+        "China",
+        "South Korea",
+        "Vietnam"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "49" },
+      "question": "Which country is located on the island of Hispaniola?",
+      "answers": [
+        "Dominican Republic",
+        "Haiti",
+        "Cuba",
+        "Puerto Rico"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "50" },
+      "question": "Where is the Eiffel Tower located?",
+      "answers": [
+        "London",
+        "New York",
+        "Tokyo",
+        "Paris"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "51" },
+      "question": "In which country can you find the Pyramids of Giza?",
+      "answers": [
+        "India",
+        "Egypt",
+        "Mexico",
+        "Greece"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "52" },
+      "question": "The Grand Canyon is located in which U.S. state?",
+      "answers": [
+        "Arizona",
+        "Nevada",
+        "Texas",
+        "California"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "53" },
+      "question": "Mount Everest is found on the border of Nepal and which other country?",
+      "answers": [
+        "Pakistan",
+        "India",
+        "Bhutan",
+        "China"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "54" },
+      "question": "The Colosseum is a famous landmark in which city?",
+      "answers": [
+        "Madrid",
+        "Berlin",
+        "Rome",
+        "Athens"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "55" },
+      "question": "Christ the Redeemer statue overlooks which city?",
+      "answers": [
+        "Bogotá",
+        "Buenos Aires",
+        "Rio de Janeiro",
+        "Lima"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "56" },
+      "question": "The Great Barrier Reef is located off the coast of which country?",
+      "answers": [
+        "Brazil",
+        "Australia",
+        "New Zealand",
+        "Mexico"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "57" },
+      "question": "Stonehenge is located in which country?",
+      "answers": [
+        "Ireland",
+        "Wales",
+        "Scotland",
+        "England"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "58" },
+      "question": "The Taj Mahal is located in which Indian city?",
+      "answers": [
+        "Delhi",
+        "Mumbai",
+        "Agra",
+        "Jaipur"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "59" },
+      "question": "Which U.S. state is home to the famous Mount Rushmore?",
+      "answers": [
+        "Wyoming",
+        "South Dakota",
+        "Montana",
+        "North Dakota"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "60" },
+      "question": "The ancient city of Petra can be found in which country?",
+      "answers": [
+        "Israel",
+        "Lebanon",
+        "Iraq",
+        "Jordan"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "61" },
+      "question": "The Acropolis is a prominent feature in which European city?",
+      "answers": [
+        "Barcelona",
+        "Vienna",
+        "Rome",
+        "Athens"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "62" },
+      "question": "The Statue of Liberty is located in which U.S. city?",
+      "answers": [
+        "San Francisco",
+        "New York City",
+        "Washington D.C.",
+        "Boston"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "63" },
+      "question": "The Leaning Tower is located in which Italian city?",
+      "answers": [
+        "Florence",
+        "Venice",
+        "Pisa",
+        "Rome"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "64" },
+      "question": "Where is the famous Golden Gate Bridge located?",
+      "answers": [
+        "San Diego",
+        "Los Angeles",
+        "Seattle",
+        "San Francisco"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "65" },
+      "question": "Which country is home to the ancient temple complex Angkor Wat?",
+      "answers": [
+        "Vietnam",
+        "Cambodia",
+        "Thailand",
+        "Myanmar"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "66" },
+      "question": "The Matterhorn is a famous mountain in which mountain range?",
+      "answers": [
+        "Rockies",
+        "Alps",
+        "Andes",
+        "Himalayas"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "67" },
+      "question": "The ancient city of Machu Picchu is located in which country?",
+      "answers": [
+        "Bolivia",
+        "Peru",
+        "Chile",
+        "Argentina"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "68" },
+      "question": "Which city is known for its iconic Opera House with a series of shell-like roofs?",
+      "answers": [
+        "Auckland",
+        "Wellington",
+        "Melbourne",
+        "Sydney"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "69" },
+      "question": "The famous temple, Borobudur, is located in which country?",
+      "answers": [
+        "Malaysia",
+        "Indonesia",
+        "Philippines",
+        "Singapore"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "70" },
+      "question": "The Kremlin is a historic fortified complex located in which city?",
+      "answers": [
+        "St. Petersburg",
+        "Kyiv",
+        "Minsk",
+        "Moscow"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "71" },
+      "question": "The Louvre Museum, which houses the Mona Lisa, is located in which city?",
+      "answers": [
+        "Berlin",
+        "Vienna",
+        "Paris",
+        "Madrid"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "72" },
+      "question": "The Great Wall of China can be found in which country?",
+      "answers": [
+        "Mongolia",
+        "China",
+        "North Korea",
+        "Russia"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "73" },
+      "question": "The Hagia Sophia, which has served as both a cathedral and a mosque, is located in which city?",
+      "answers": [
+        "Jerusalem",
+        "Istanbul",
+        "Cairo",
+        "Athens"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "74" },
+      "question": "The famous Meteora monasteries are perched atop rock pillars in which country?",
+      "answers": [
+        "Italy",
+        "Spain",
+        "Greece",
+        "Portugal"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "75" },
+      "question": "The Uffizi Gallery, one of the world's most prominent art museums, is located in which Italian city?",
+      "answers": [
+        "Milan",
+        "Venice",
+        "Florence",
+        "Rome"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "76" },
+      "question": "The Banaue Rice Terraces, also referred to as the 'Eighth Wonder of the World', are located in which country?",
+      "answers": [
+        "Thailand",
+        "Vietnam",
+        "Philippines",
+        "Indonesia"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "77" },
+      "question": "The Temple of the Tooth, which houses a sacred relic of the tooth of the Buddha, is located in which city?",
+      "answers": [
+        "Yangon",
+        "Kandy",
+        "Lhasa",
+        "Colombo"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "78" },
+      "question": "In which city is the historic Wieliczka Salt Mine, which has been producing table salt for over 700 years, located?",
+      "answers": [
+        "Prague",
+        "Krakow",
+        "Warsaw",
+        "Budapest"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "79" },
+      "question": "The Palau de la Música Catalana, a concert hall known for its unique architecture, is found in which city?",
+      "answers": [
+        "Barcelona",
+        "Madrid",
+        "Valencia",
+        "Seville"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "80" },
+      "question": "Chand Baori is one of the oldest and most attractive stepwells in the world. In which country can it be found?",
+      "answers": [
+        "Pakistan",
+        "India",
+        "Bangladesh",
+        "Sri Lanka"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "81" },
+      "question": "Which country has the most islands?",
+      "answers": [
+        "Canada",
+        "Indonesia",
+        "Philippines",
+        "Sweden"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "82" },
+      "question": "Which city is known as 'The City of Canals'?",
+      "answers": [
+        "Venice",
+        "Amsterdam",
+        "Stockholm",
+        "Bruges"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "83" },
+      "question": "In which desert is the world's driest place located?",
+      "answers": [
+        "Gobi",
+        "Sahara",
+        "Sonoran",
+        "Atacama"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "84" },
+      "question": "Which is the most popular tourist destination in terms of international arrivals?",
+      "answers": [
+        "France",
+        "United States",
+        "Spain",
+        "Italy"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "85" },
+      "question": "The island of Borneo is divided among three countries. Which of these is NOT one of them?",
+      "answers": [
+        "Malaysia",
+        "Thailand",
+        "Indonesia",
+        "Brunei"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "86" },
+      "question": "Lake Baikal, the world's deepest and oldest freshwater lake, is located in which country?",
+      "answers": [
+        "Canada",
+        "Norway",
+        "Russia",
+        "Finland"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "87" },
+      "question": "Which place is officially recognized as the hottest on Earth?",
+      "answers": [
+        "Death Valley, USA",
+        "Lut Desert, Iran",
+        "Dallol, Ethiopia",
+        "Dasht-e Kavir, Iran"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "88" },
+      "question": "Which city is often referred to as the coldest inhabited place on Earth?",
+      "answers": [
+        "Barrow, Alaska",
+        "Yellowknife, Canada",
+        "Oymyakon, Russia",
+        "Nuuk, Greenland"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "89" },
+      "question": "Which place is considered the driest non-polar desert in the world?",
+      "answers": [
+        "Sahara Desert",
+        "Kalahari Desert",
+        "Great Victoria Desert",
+        "Atacama Desert"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "90" },
+      "question": "Which place receives the most rainfall annually?",
+      "answers": [
+        "Mawsynram, India",
+        "Tutunendo, Colombia",
+        "Cropp River, New Zealand",
+        "Debundscha, Cameroon"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "91" },
+      "question": "What is the lowest point on the Earth's surface not covered by water?",
+      "answers": [
+        "Death Valley, USA",
+        "Danakil Depression, Ethiopia",
+        "Jordan Rift Valley, Jordan",
+        "Badwater Basin, USA"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "92" },
+      "question": "Which is the world's saltiest body of water?",
+      "answers": [
+        "Red Sea",
+        "Dead Sea",
+        "Great Salt Lake",
+        "Caspian Sea"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "93" },
+      "question": "Where is the world's highest waterfall located?",
+      "answers": [
+        "Iguazu Falls, Argentina/Brazil",
+        "Victoria Falls, Zambia/Zimbabwe",
+        "Angel Falls, Venezuela",
+        "Niagara Falls, USA/Canada"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "94" },
+      "question": "Mount Chimborazo is not the highest mountain by elevation above sea level, but its summit is the farthest point from Earth's center. Where is it located?",
+      "answers": [
+        "Argentina",
+        "Peru",
+        "Ecuador",
+        "Chile"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "95" },
+      "question": "The Great Blue Hole, one of the largest underwater sinkholes, is located off the coast of which country?",
+      "answers": [
+        "Belize",
+        "Maldives",
+        "Indonesia",
+        "Bahamas"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "96" },
+      "question": "Tristan da Cunha is the most remote inhabited archipelago in the world. To which country does it belong?",
+      "answers": [
+        "Portugal",
+        "Spain",
+        "United Kingdom",
+        "France"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "97" },
+      "question": "Which country is home to both the lowest and highest points in South America?",
+      "answers": [
+        "Brazil",
+        "Argentina",
+        "Chile",
+        "Bolivia"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "98" },
+      "question": "The Salar de Uyuni, the world's largest salt flat, is found in which country?",
+      "answers": [
+        "Bolivia",
+        "Mexico",
+        "Peru",
+        "Argentina"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "99" },
+      "question": "Challenger Deep, the deepest known point in Earth's seabed hydrosphere, is part of which trench?",
+      "answers": [
+        "Puerto Rico Trench",
+        "Java Trench",
+        "Sunda Trench",
+        "Mariana Trench"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "100" },
+      "question": "Lake Assal, located in the Afar Triangle, is the lowest point in which continent?",
+      "answers": [
+        "Asia",
+        "Africa",
+        "Australia",
+        "Europe"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "101" },
+      "question": "Aysén, one of the wettest places in the Americas, is located in which country?",
+      "answers": [
+        "Peru",
+        "Brazil",
+        "Chile",
+        "Argentina"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "102" },
+      "question": "Which island is the world's largest by land area?",
+      "answers": [
+        "Borneo",
+        "Madagascar",
+        "Greenland",
+        "New Guinea"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "103" },
+      "question": "Which desert, located in Antarctica, is considered one of the world's driest places?",
+      "answers": [
+        "McMurdo Dry Valleys",
+        "Kara Kum Desert",
+        "Namib Desert",
+        "Gobi Desert"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "104" },
+      "question": "Which country is home to the Dallol sulfur springs, known for their otherworldly colors and extreme temperatures?",
+      "answers": [
+        "Iceland",
+        "Japan",
+        "Ethiopia",
+        "New Zealand"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "105" },
+      "question": "Which river, one of the longest in the world, flows through 11 countries and discharges into the Mediterranean Sea?",
+      "answers": [
+        "Amazon River",
+        "Yangtze River",
+        "Mississippi River",
+        "Nile River"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "106" },
+      "question": "Mount Thor, known for the world's greatest vertical drop, is located in which country?",
+      "answers": [
+        "Norway",
+        "Canada",
+        "Russia",
+        "Nepal"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "107" },
+      "question": "In which country can you find the 'Door to Hell', a natural gas field that has been burning since 1971?",
+      "answers": [
+        "Iran",
+        "Turkmenistan",
+        "Kazakhstan",
+        "Uzbekistan"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    }
+  ]
+}

@@ -1,0 +1,1241 @@
+{
+  "_id": { "$oid": "64cf6cc710a87634ea8bf3f6" },
+  "module": {
+    "number": { "$numberInt": "1" },
+    "name": "Science-Tech",
+    "questions": { "$numberInt": "115" },
+    "revision": "2023-07-18"
+  },
+  "questions": [
+    {
+      "number": { "$numberInt": "0" },
+      "question": "What is the chemical symbol for hydrogen?",
+      "answers": ["H", "He", "Ho", "Hy"],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "1" },
+      "question": "What is the SI unit of electric current?",
+      "answers": [
+        "Volt",
+        "Watt",
+        "Ampere",
+        "Ohm"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "2" },
+      "question": "Which planet is known as the 'Red Planet'?",
+      "answers": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Neptune"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "3" },
+      "question": "What is the largest organ in the human body?",
+      "answers": [
+        "Heart",
+        "Liver",
+        "Brain",
+        "Skin"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "4" },
+      "question": "What is the chemical formula for water?",
+      "answers": ["H2O2", "HO2", "H2O", "H2O3"],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "5" },
+      "question": "Which scientist is known for the theory of general relativity?",
+      "answers": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "6" },
+      "question": "What is the speed of light in a vacuum?",
+      "answers": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "600,000 km/s",
+        "900,000 km/s"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "7" },
+      "question": "What is the process by which plants convert sunlight into energy?",
+      "answers": [
+        "Photosynthesis",
+        "Respiration",
+        "Fermentation",
+        "Oxidation"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "8" },
+      "question": "Which particle is responsible for carrying an electric charge?",
+      "answers": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Photon"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "9" },
+      "question": "What is the main component of Earth's atmosphere?",
+      "answers": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Methane"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "10" },
+      "question": "What is the smallest unit of information in computing?",
+      "answers": [
+        "Byte",
+        "Bit",
+        "Megabyte",
+        "Gigabyte"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "11" },
+      "question": "Which force holds the nucleus of an atom together?",
+      "answers": [
+        "Gravitational force",
+        "Electromagnetic force",
+        "Strong nuclear force",
+        "Weak nuclear force"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "12" },
+      "question": "Which planet is known for its beautiful rings?",
+      "answers": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "13" },
+      "question": "What is the process by which a solid changes directly into a gas?",
+      "answers": [
+        "Melting",
+        "Freezing",
+        "Condensation",
+        "Sublimation"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "14" },
+      "question": "What is the largest planet in our solar system?",
+      "answers": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Neptune"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "15" },
+      "question": "Which organ is responsible for filtering waste from the blood?",
+      "answers": [
+        "Heart",
+        "Liver",
+        "Kidney",
+        "Lung"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "16" },
+      "question": "What is the chemical formula for carbon dioxide?",
+      "answers": ["CO2", "C2O", "CO", "C3O2"],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "17" },
+      "question": "Which scientist is known for the theory of evolution by natural selection?",
+      "answers": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Charles Darwin",
+        "Louis Pasteur"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "18" },
+      "question": "What is the freezing point of water in Celsius?",
+      "answers": [
+        "0°C",
+        "100°C",
+        "32°F",
+        "-273.15°C"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "19" },
+      "question": "What is the unit of electric charge?",
+      "answers": [
+        "Ampere",
+        "Volt",
+        "Watt",
+        "Coulomb"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "20" },
+      "question": "What is the process by which plants release water vapor through their leaves?",
+      "answers": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Evaporation"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "21" },
+      "question": "Which particle has a positive electric charge?",
+      "answers": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Photon"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "22" },
+      "question": "Which gas makes up the majority of Earth's atmosphere?",
+      "answers": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Methane"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "23" },
+      "question": "What unit is made of 1,000 'kilobytes' (KB)?",
+      "answers": [
+        "Petabyte",
+        "Kilobyte",
+        "Megabyte",
+        "Gigabyte"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "24" },
+      "question": "Which force is responsible for holding electrons in orbit around the nucleus?",
+      "answers": [
+        "Gravitational force",
+        "Electromagnetic force",
+        "Strong nuclear force",
+        "Weak nuclear force"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "25" },
+      "question": "Which planet is known for its prominent red spot?",
+      "answers": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "26" },
+      "question": "What is the process by which a gas changes directly into a solid?",
+      "answers": [
+        "Melting",
+        "Freezing",
+        "Condensation",
+        "Deposition"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "27" },
+      "question": "What is the largest planet in our solar system?",
+      "answers": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Neptune"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "28" },
+      "question": "Which organ is responsible for removing toxins from the blood?",
+      "answers": [
+        "Heart",
+        "Liver",
+        "Kidney",
+        "Lung"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "29" },
+      "question": "What is the chemical formula for methane?",
+      "answers": ["CH4", "C2H2", "CO2", "C3H8"],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "30" },
+      "question": "Who is credited with the discovery of penicillin?",
+      "answers": [
+        "Alexander Fleming",
+        "Marie Curie",
+        "Albert Einstein",
+        "Thomas Edison"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "31" },
+      "question": "What is the boiling point of water in Celsius?",
+      "answers": [
+        "0°C",
+        "100°C",
+        "32°F",
+        "273.15°C"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "32" },
+      "question": "What is the SI unit of temperature?",
+      "answers": [
+        "Kelvin",
+        "Celsius",
+        "Fahrenheit",
+        "Rankine"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "33" },
+      "question": "What is the SI unit of force?",
+      "answers": [
+        "Newton",
+        "Watt",
+        "Joule",
+        "Pascal"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "34" },
+      "question": "What is the process by which an organism produces offspring similar to itself?",
+      "answers": [
+        "Reproduction",
+        "Growth",
+        "Metabolism",
+        "Adaptation"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "35" },
+      "question": "Which particle has no electric charge?",
+      "answers": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Photon"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "36" },
+      "question": "Which gas is essential for respiration in humans?",
+      "answers": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Methane"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "37" },
+      "question": "What is the smallest unit of digital information?",
+      "answers": [
+        "Byte",
+        "Bit",
+        "Megabyte",
+        "Gigabyte"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "38" },
+      "question": "Which force is responsible for holding the nucleus of an atom together?",
+      "answers": [
+        "Gravitational force",
+        "Electromagnetic force",
+        "Strong nuclear force",
+        "Weak nuclear force"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "39" },
+      "question": "Which planet is known for its prominent rings?",
+      "answers": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "40" },
+      "question": "What is the process by which a gas changes directly into a liquid?",
+      "answers": [
+        "Melting",
+        "Freezing",
+        "Condensation",
+        "Evaporation"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "41" },
+      "question": "What is the largest moon in our solar system?",
+      "answers": [
+        "Luna",
+        "Europa",
+        "Titan",
+        "Ganymede"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "42" },
+      "question": "Which organ is responsible for pumping blood throughout the body?",
+      "answers": [
+        "Heart",
+        "Liver",
+        "Brain",
+        "Lung"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "43" },
+      "question": "What is the chemical formula for sodium chloride?",
+      "answers": [
+        "NaCl",
+        "Na2Cl",
+        "NaCl2",
+        "Na2Cl2"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "44" },
+      "question": "Who is known for the theory of relativity?",
+      "answers": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Stephen Hawking"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "45" },
+      "question": "What is the speed of light in a vacuum?",
+      "answers": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "600,000 km/s",
+        "900,000 km/s"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "46" },
+      "question": "What is the process by which plants convert light energy into chemical energy?",
+      "answers": [
+        "Photosynthesis",
+        "Respiration",
+        "Fermentation",
+        "Oxidation"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "47" },
+      "question": "Which particle carries a negative electric charge?",
+      "answers": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Photon"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "48" },
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "answers": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Methane"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "49" },
+      "question": "Which of the following was NOT a computer operating system developed by Microsoft?",
+      "answers": [
+        "Windows 95",
+        "OS/2",
+        "MS-DOS",
+        "Windows ME"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "50" },
+      "question": "Which of the following was NOT one of the original founders of Apple Inc.?",
+      "answers": [
+        "Steve Jobs",
+        "Ronald Wayne",
+        "Bill Gates",
+        "Steve Wozniak"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "51" },
+      "question": "In what year was the first computer virus detected in the wild?",
+      "answers": ["1983", "1971", "1986", "1990"],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "52" },
+      "question": "Which of the following languages predates the others?",
+      "answers": [
+        "Pascal",
+        "C++",
+        "Python",
+        "Fortran"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "53" },
+      "question": "What was the name of the world's first commercially available microprocessor?",
+      "answers": [
+        "Intel 4004",
+        "Motorola 6800",
+        "Zilog Z80",
+        "TMS 1000"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "54" },
+      "question": "Which company developed the first computer mouse?",
+      "answers": [
+        "Microsoft",
+        "Apple",
+        "Xerox",
+        "IBM"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "55" },
+      "question": "Which of the following was the first open-source browser from which Mozilla Firefox was derived?",
+      "answers": [
+        "Mosaic",
+        "Netscape Navigator",
+        "Phoenix",
+        "Firebird"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "56" },
+      "question": "Which technology was primarily used for data storage before the widespread adoption of Hard Disk Drives (HDD)?",
+      "answers": [
+        "Compact Discs",
+        "Punch Cards",
+        "Magnetic Tapes",
+        "Zip Drives"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "57" },
+      "question": "ENIAC, one of the earliest electronic general-purpose computers, stands for?",
+      "answers": [
+        "Electronic Numerical Integrator And Computer",
+        "Electronic Networked Integrated Analytical Computer",
+        "English National Institute for Advanced Computation",
+        "Engineered Network of Integrated Arithmetic Circuits"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "58" },
+      "question": "In which programming language was the original Unix operating system written?",
+      "answers": ["C", "Pascal", "Assembly", "B"],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "59" },
+      "question": "Which woman is often called the world's first computer programmer due to her work with Charles Babbage?",
+      "answers": [
+        "Grace Hopper",
+        "Jean Sammet",
+        "Joan Clarke",
+        "Ada Lovelace"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "60" },
+      "question": "What was the name of the first computer to defeat a reigning world chess champion?",
+      "answers": [
+        "Watson",
+        "Blue Gene",
+        "Cray-1",
+        "Deep Blue"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "61" },
+      "question": "The computer language COBOL stands for?",
+      "answers": [
+        "Computer Binary Oriented Language",
+        "Common Business-Oriented Language",
+        "Compiled Object-Based Operational Language",
+        "Computerized Business Optimized Lexicon"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "62" },
+      "question": "Which of the following protocols was instrumental in the creation of the early Internet?",
+      "answers": [
+        "HTTP",
+        "FTP",
+        "ARPANET",
+        "TCP/IP"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "63" },
+      "question": "Alan Turing, the father of theoretical computer science and artificial intelligence, proposed a test for machine's ability to exhibit human-like intelligence. What is this test called?",
+      "answers": [
+        "Humanity Test",
+        "Cognitive Response Analysis",
+        "Neural Network Evaluation",
+        "Turing Test"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "64" },
+      "question": "When baking soda is mixed with vinegar, which gas is produced?",
+      "answers": [
+        "Hydrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "65" },
+      "question": "What substance is produced when an acid reacts with a base?",
+      "answers": [
+        "Alcohol",
+        "Salt",
+        "Sugar",
+        "Water"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "66" },
+      "question": "Photosynthesis converts carbon dioxide and water into glucose and what?",
+      "answers": [
+        "Hydrogen",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "67" },
+      "question": "What common gas do humans exhale?",
+      "answers": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "68" },
+      "question": "Which of the following is a result of the combustion of hydrocarbons?",
+      "answers": [
+        "Oxygen",
+        "Water",
+        "Helium",
+        "Argon"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "69" },
+      "question": "Which element is released during the electrolysis of water?",
+      "answers": [
+        "Carbon",
+        "Oxygen",
+        "Chlorine",
+        "Neon"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "70" },
+      "question": "Fermentation of sugar produces alcohol and which gas?",
+      "answers": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "71" },
+      "question": "Who is credited with formulating the laws of motion and universal gravitation?",
+      "answers": [
+        "Galileo Galilei",
+        "Albert Einstein",
+        "Isaac Newton",
+        "Niels Bohr"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "72" },
+      "question": "What discovery earned Marie Curie her first Nobel Prize?",
+      "answers": [
+        "X-rays",
+        "Radium and Polonium",
+        "Theory of Relativity",
+        "DNA Structure"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "73" },
+      "question": "Who first proposed the helical structure of DNA?",
+      "answers": [
+        "Albert Einstein",
+        "Gregor Mendel",
+        "Watson and Crick",
+        "Max Planck"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "74" },
+      "question": "Which physicist is best known for the theory of relativity?",
+      "answers": [
+        "Michael Faraday",
+        "Niels Bohr",
+        "Albert Einstein",
+        "Maxwell"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "75" },
+      "question": "What is the 'God particle' more formally known as?",
+      "answers": [
+        "Electron",
+        "Neutrino",
+        "Quark",
+        "Higgs Boson"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "76" },
+      "question": "Which astronomer proposed the heliocentric model, where the Earth orbits the Sun?",
+      "answers": [
+        "Copernicus",
+        "Galileo",
+        "Kepler",
+        "Brahe"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "77" },
+      "question": "Who is credited with discovering penicillin?",
+      "answers": [
+        "Marie Curie",
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Edward Jenner"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "78" },
+      "question": "Which scientist is best known for the laws of electromagnetism?",
+      "answers": [
+        "Isaac Newton",
+        "Michael Faraday",
+        "James Clerk Maxwell",
+        "Richard Feynman"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "79" },
+      "question": "Who proposed the idea of natural selection?",
+      "answers": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Carl Linnaeus",
+        "James Watson"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "80" },
+      "question": "In which decade was the first successful human heart transplant carried out?",
+      "answers": [
+        "1940s",
+        "1950s",
+        "1960s",
+        "1970s"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "81" },
+      "question": "Who is credited with inventing the first practical telephone?",
+      "answers": [
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Alexander Graham Bell",
+        "Nikola Tesla"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "82" },
+      "question": "In which decade was the first polio vaccine developed?",
+      "answers": [
+        "1920s",
+        "1930s",
+        "1940s",
+        "1950s"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "83" },
+      "question": "Who is known for the invention of bifocal glasses?",
+      "answers": [
+        "Leonardo da Vinci",
+        "Benjamin Franklin",
+        "Galileo Galilei",
+        "Sir Isaac Newton"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "84" },
+      "question": "In which century was the microscope invented?",
+      "answers": [
+        "15th Century",
+        "16th Century",
+        "17th Century",
+        "18th Century"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "85" },
+      "question": "Who is considered the father of modern chemistry?",
+      "answers": [
+        "Dmitri Mendeleev",
+        "Marie Curie",
+        "Antoine Lavoisier",
+        "Robert H. Grubbs"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "86" },
+      "question": "In which decade was the World Wide Web proposed for the first time?",
+      "answers": [
+        "1970s",
+        "1980s",
+        "1990s",
+        "2000s"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "87" },
+      "question": "Who is known for developing the periodic table?",
+      "answers": [
+        "Isaac Newton",
+        "Dmitri Mendeleev",
+        "Ernest Rutherford",
+        "Niels Bohr"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "88" },
+      "question": "In which century was the first electric battery invented?",
+      "answers": [
+        "16th Century",
+        "17th Century",
+        "18th Century",
+        "19th Century"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "89" },
+      "question": "Who is credited with the discovery of the circulation of blood?",
+      "answers": [
+        "Andreas Vesalius",
+        "Hippocrates",
+        "William Harvey",
+        "Avicenna"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "90" },
+      "question": "In which decade was the X-ray machine invented?",
+      "answers": [
+        "1870s",
+        "1880s",
+        "1890s",
+        "1900s"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "91" },
+      "question": "Who is credited with the discovery of the electron?",
+      "answers": [
+        "Ernest Rutherford",
+        "J.J. Thomson",
+        "Niels Bohr",
+        "James Clerk Maxwell"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "92" },
+      "question": "The heliocentric model, which states the sun is at the center of the solar system, was proposed by?",
+      "answers": [
+        "Ptolemy",
+        "Johannes Kepler",
+        "Nicolaus Copernicus",
+        "Tycho Brahe"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "93" },
+      "question": "Who is known as the father of genetics?",
+      "answers": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Dmitri Mendeleev",
+        "Alfred Russel Wallace"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "94" },
+      "question": "The process of pasteurization is credited to what scientist?",
+      "answers": [
+        "Louis Pasteur",
+        "Albert Einstein",
+        "Alexander Fleming",
+        "Marie Curie"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "95" },
+      "question": "Who is credited with the first recorded use of the scientific method?",
+      "answers": [
+        "Archimedes",
+        "Pythagoras",
+        "Alhazen",
+        "Plato"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "96" },
+      "question": "Which ancient philosopher wrote about the geocentric model of the universe in 'Almagest'?",
+      "answers": [
+        "Ptolemy",
+        "Aristotle",
+        "Hipparchus",
+        "Euclid"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "97" },
+      "question": "Which Greek philosopher is known for proposing that matter is made up of atoms?",
+      "answers": [
+        "Socrates",
+        "Plato",
+        "Democritus",
+        "Aristotle"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "98" },
+      "question": "The concept of 'water' being a fundamental element of nature was proposed by which pre-Socratic philosopher?",
+      "answers": [
+        "Pythagoras",
+        "Thales",
+        "Parmenides",
+        "Heraclitus"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "99" },
+      "question": "Who is considered the father of medicine in ancient Greece?",
+      "answers": [
+        "Hippocrates",
+        "Galileo",
+        "Aristotle",
+        "Asclepius"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "100" },
+      "question": "Which Roman physician is best known for his work 'De Medicina'?",
+      "answers": [
+        "Galen",
+        "Hippocrates",
+        "Celsus",
+        "Avicenna"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "101" },
+      "question": "The Earth's circumference was first calculated approximately by?",
+      "answers": [
+        "Pythagoras",
+        "Hipparchus",
+        "Erastothenes",
+        "Aristotle"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "102" },
+      "question": "The 'Golden Ratio' was a concept widely studied by which ancient mathematician?",
+      "answers": [
+        "Archimedes",
+        "Euclid",
+        "Plato",
+        "Pythagoras"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "103" },
+      "question": "Which ancient scholar is known for his book 'Elements', a foundational text in geometry?",
+      "answers": [
+        "Euclid",
+        "Pythagoras",
+        "Archimedes",
+        "Aristotle"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "104" },
+      "question": "The concept of zero as a number was significantly developed by civilizations from which region?",
+      "answers": [
+        "Ancient Greece",
+        "Ancient Rome",
+        "Ancient Egypt",
+        "Ancient India"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "105" },
+      "question": "Which early programming language was developed at Bell Labs in the 1970s?",
+      "answers": ["Python", "Java", "C", "Ruby"],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "106" },
+      "question": "Which device is primarily used to read e-books?",
+      "answers": [
+        "Kindle",
+        "Microwave",
+        "Telescope",
+        "Blender"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "107" },
+      "question": "Which of the following is a popular social media platform?",
+      "answers": [
+        "Windows",
+        "Photoshop",
+        "Instagram",
+        "Excel"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "108" },
+      "question": "Which company is known for making the iPhone?",
+      "answers": [
+        "Microsoft",
+        "Samsung",
+        "Google",
+        "Apple"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "109" },
+      "question": "Which theory explains the behavior of particles on the quantum scale?",
+      "answers": [
+        "General Relativity",
+        "Plate Tectonics",
+        "Evolution",
+        "Quantum Mechanics"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "110" },
+      "question": "Which principle states that the position and momentum of a particle cannot be precisely determined simultaneously?",
+      "answers": [
+        "Bernoulli's Principle",
+        "Heisenberg Uncertainty Principle",
+        "Archimedes' Principle",
+        "Pascal's Law"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "111" },
+      "question": "The idea that energy is quantized and can be exchanged only in discrete units or 'quanta' is a fundamental concept in...",
+      "answers": [
+        "Classical Mechanics",
+        "General Relativity",
+        "Quantum Mechanics",
+        "Thermodynamics"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "112" },
+      "question": "The dual nature of light, behaving both as a particle and a wave, is described by...",
+      "answers": [
+        "Wave-Particle Duality",
+        "Electromagnetic Spectrum",
+        "Newton's Laws of Motion",
+        "Theory of Everything"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "113" },
+      "question": "The theory that describes the motion of planets in elliptical orbits around the sun is...",
+      "answers": [
+        "Newton's Laws of Motion",
+        "Kepler's Laws of Planetary Motion",
+        "Einstein's Theory of Relativity",
+        "Bohr's Model of Atom"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "114" },
+      "question": "Which concept states that traits beneficial to survival are more likely to be passed on to future generations?",
+      "answers": [
+        "Gene Theory",
+        "Natural Selection",
+        "DNA Replication",
+        "Cell Division"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    }
+  ]
+}

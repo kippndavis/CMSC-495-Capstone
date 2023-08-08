@@ -1,0 +1,37 @@
+plugins {
+	id 'java'
+	id 'org.springframework.boot' version '3.1.1'
+	id 'io.spring.dependency-management' version '1.1.0'
+}
+
+group = 'com.spring.game'
+version = '0.1'
+
+//java {
+//	sourceCompatibility = '17'
+//}
+
+java {
+	// Set the sourceCompatibility and targetCompatibility to Java 17
+	sourceCompatibility = JavaVersion.VERSION_17
+	targetCompatibility = JavaVersion.VERSION_17
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	// Spring Boot Starters
+	implementation 'org.springframework.boot:spring-boot-starter-data-mongodb'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	implementation 'org.json:json:20230618'
+
+	// MongoDB Drivers
+//	implementation 'org.mongodb:mongodb-driver-sync:4.10.2'
+}
+
+tasks.named('test') {
+	useJUnitPlatform()
+}

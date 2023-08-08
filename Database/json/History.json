@@ -1,0 +1,1167 @@
+{
+  "_id": { "$oid": "64cf6d2f10a87634ea8bf3f9" },
+  "module": {
+    "number": { "$numberInt": "1" },
+    "name": "History",
+    "questions": { "$numberInt": "111" },
+    "revision": "2023-07-06"
+  },
+  "questions": [
+    {
+      "number": { "$numberInt": "0" },
+      "question": "Which war was fought between the North and the South in the United States from 1861 to 1865?",
+      "answers": [
+        "American Revolution",
+        "Civil War",
+        "World War II",
+        " Cold War"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "1" },
+      "question": "Who was the first President of the United States?",
+      "answers": [
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "George Washington",
+        "James Madison"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "2" },
+      "question": "In which year did Christopher Columbus first reach the Americas?",
+      "answers": ["1492", "1609", "1765", "1782"],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "3" },
+      "question": "Which city was the capital of the Roman Empire?",
+      "answers": [
+        "Athens",
+        "Rome",
+        "Alexandria",
+        "Constantinople"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "4" },
+      "question": "Who wrote the \"Declaration of Independence\"?",
+      "answers": [
+        "Thomas Jefferson",
+        "George Washington",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "5" },
+      "question": "Which country was not a member of the Allied Powers during World War II?",
+      "answers": [
+        "United States",
+        "Soviet Union",
+        "Italy",
+        "China"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "6" },
+      "question": "The Industrial Revolution began in which country?",
+      "answers": [
+        "United States",
+        "France",
+        "Germany",
+        "United Kingdom"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "7" },
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "answers": [
+        "Florence Nightingale",
+        "Rosa Parks",
+        "Marie Curie",
+        "Jane Austen"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "8" },
+      "question": "The Magna Carta, signed in 1215, limited the power of which monarch?",
+      "answers": [
+        "Queen Elizabeth I",
+        "King John",
+        "King Henry VIII",
+        "King Edward III"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "9" },
+      "question": "The Berlin Wall, which divided East and West Germany, fell in which year?",
+      "answers": ["1989", "1975", "1961", "1991"],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "10" },
+      "question": "Who was the leader of the Soviet Union during World War II?",
+      "answers": [
+        "Jospeh Stalin",
+        "Vladimir Lenin",
+        "Mikhail Gorbachev",
+        "Leonid Brezhnev"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "11" },
+      "question": "The French Revolution began in which year?",
+      "answers": ["1789", "1792", "1804", "1832"],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "12" },
+      "question": "Who assassinated President John F. Kennedy in 1963?",
+      "answers": [
+        "John Wilkes Booth",
+        "Gavrilo Princip",
+        "James Earl Ray",
+        "Lee Harvey Oswald"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "13" },
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "answers": [
+        "Bessie Coleman",
+        "Harriet Quimby",
+        "Sally Ride",
+        "Amelia Earhart"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "14" },
+      "question": "The Treaty of Versailles, which officially ended World War I, was signed in which year?",
+      "answers": ["1914", "1919", "1924", "1939"],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "15" },
+      "question": "Which famous scientist is known for his theory of relativity?",
+      "answers": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Nikola Tesla",
+        "Stephen Hawking"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "16" },
+      "question": "The Cuban Missile Crisis, a major confrontation between the United States and the Soviet Union, occurred in which year?",
+      "answers": ["1954", "1962", "1975", "1989"],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "17" },
+      "question": "The Battle of Waterloo took place during which war?",
+      "answers": [
+        "World War I",
+        "American Civil War",
+        "Napoleonic Wars",
+        "French Revolution"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "18" },
+      "question": "Who is credited with inventing the printing press in the 15th century?",
+      "answers": [
+        "Johannes Gutenberg",
+        "Leonardo da Vinci",
+        "Isaac Newton",
+        "Galileo Galilei"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "19" },
+      "question": "The Emancipation Proclamation, which abolished slavery in the United States, was issued by which President?",
+      "answers": [
+        "Abraham Lincoln",
+        "Theodore Roosevelt",
+        "Jefferson Davis",
+        "Ulysses S. Grant"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "20" },
+      "question": "Who was the first explorer to circumnavigate the globe?",
+      "answers": [
+        "Christopher Columbus",
+        "Marco Polo",
+        "James Cook",
+        "Ferdinand Magellan"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "21" },
+      "question": "The Opium Wars were fought between which two countries?",
+      "answers": [
+        "China and Japan",
+        "England and France",
+        "England and China",
+        "France and China"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "22" },
+      "question": "The Treaty of Tordesillas, signed in 1494, divided newly discovered lands between which two European powers?",
+      "answers": [
+        "England and France",
+        "Spain and Portugal",
+        "Netherlands and Belgium",
+        "Germany and Austria"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "23" },
+      "question": "Which city was the site of the first atomic bomb attack in history?",
+      "answers": [
+        "Hiroshima",
+        "Nagasaki",
+        "Tokyo",
+        "Osaka"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "24" },
+      "question": "Who was the first man to walk on the moon?",
+      "answers": [
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "John Glenn",
+        "Buzz Aldrin"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "25" },
+      "question": "The Treaty of Guadalupe Hidalgo, signed in 1848, ended a war between the United States and which country?",
+      "answers": [
+        "France",
+        "Spain",
+        "Mexico",
+        "Portugal"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "26" },
+      "question": "The American Civil Rights Movement, which foughtfor racial equality and civil rights, was primarily active during which decades?",
+      "answers": [
+        "1930s and 1940s",
+        "1940s and 1950s",
+        "1950s and 1960s",
+        "1960s and 1970s"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "27" },
+      "question": "The Treaty of Paris, signed in 1783, officially recognized the independence of which country from Great Britain?",
+      "answers": [
+        "United States",
+        "Canada",
+        "Australia",
+        "Ireland"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "28" },
+      "question": "Who was the first female Prime Minister of the United Kingdom?",
+      "answers": [
+        "Angela Merkel",
+        "Theresa May",
+        "Indira Gandhi",
+        "Margaret Thatcher"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "29" },
+      "question": "Which ancient civilization built the city of Machu Picchu?",
+      "answers": [
+        "Olmec",
+        "Maya",
+        "Aztec",
+        "Inca"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "30" },
+      "question": "The Hundred Years' War was fought between which two countries?",
+      "answers": [
+        "England and France",
+        "Spain and Portugal",
+        "Germany and Austria",
+        "Scotland and Ireland"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "31" },
+      "question": "Who was the first President of the United States to be impeached?",
+      "answers": [
+        "Andrew Johnson",
+        "Richard Nixon",
+        "Bill Clinton",
+        "Donald Trump"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "32" },
+      "question": "The Boxer Rebellion, an anti-imperialist uprising, took place in which country?",
+      "answers": [
+        "India",
+        "Japan",
+        "China",
+        "Vietnam"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "33" },
+      "question": "Who wrote the Communist Manifesto along with Friedrich Engels?",
+      "answers": [
+        "Karl Marx",
+        "Vladimir Lenin",
+        "Joseph Stalin",
+        "Mao Zedong"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "34" },
+      "question": "The Battle of Stalingrad, a major turning point in World War II, took place in which country?",
+      "answers": [
+        "Germany",
+        "France",
+        "Russia",
+        "Italy"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "35" },
+      "question": "Who was the first President of South Africa after the end of apartheid?",
+      "answers": [
+        "Nelson Mandela",
+        "Desmond Tutu",
+        "Jacob Zuma",
+        "Thabo Mbeki"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "36" },
+      "question": "Who was the leader of the Soviet Union during the Soviet-Afghan War?",
+      "answers": [
+        "Joseph Stalin",
+        "Vladimir Lenin",
+        "Nikita Krushchev",
+        "Leonid Brezhnev"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "37" },
+      "question": "The Bubonic Plague, also known as the Black Death, originated in which continent?",
+      "answers": [
+        "Europe",
+        "Asia",
+        "Africa",
+        "South America"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "38" },
+      "question": "The ancient city of Pompeii was destroyed by the eruption of which volcano?",
+      "answers": [
+        "Vesuvius",
+        "Krakatoa",
+        "Mount Everest",
+        "Mount Thera"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "39" },
+      "question": "The Olympic Games originally began in which country?",
+      "answers": [
+        "Italy",
+        "Egypt",
+        "Greece",
+        "France"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "40" },
+      "question": "The Mayflower Compact, an early governing document in colonial America, was signed by the Pilgrims in which year?",
+      "answers": ["1620", "1688", "1712", "1738"],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "41" },
+      "question": "The ancient city of Rome was founded in which legendary year?",
+      "answers": [
+        "753 BCE",
+        "476 CE",
+        "1066 CE",
+        "1453 CE"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "42" },
+      "question": "The Mongol Empire, one of the largest empires in history, was founded by which leader?",
+      "answers": [
+        "Attila the Hun",
+        "Kublai Khan",
+        "Genghis Khan",
+        "Khabul Khan"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "43" },
+      "question": "The Battle of Hastings, a pivotal event in English history, occurred in which year?",
+      "answers": ["1066", "1215", "1347", "1492"],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "44" },
+      "question": "The Cultural Revolution, a socio-political movement, took place in which country during the 1960s and 1970s?",
+      "answers": [
+        "Russia",
+        "India",
+        "China",
+        "Japan"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "45" },
+      "question": "The Louisiana Purchase, in which the United States acquired a vast territory from France, was made during the presidency of which U.S. President?",
+      "answers": [
+        "James Madison",
+        "Thomas Jefferson",
+        "James Monroe",
+        "Andrew Jackson"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "46" },
+      "question": "The Berlin Conference of 1884-1885 was held to regulate the colonization and trade in which continent?",
+      "answers": [
+        "Africa",
+        "South America",
+        "Central America",
+        "Asia"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "47" },
+      "question": "The Bay of Pigs invasion, a failed military operation, aimed to overthrow the government of which country?",
+      "answers": [
+        "Vietnam",
+        "Korea",
+        "Nicaragua",
+        "Cuba"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "48" },
+      "question": "The Suez Crisis, a conflict involving Egypt, Israel, France, and the United Kingdom, occurred in which year?",
+      "answers": ["1953", "1956", "1961", "1967"],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "49" },
+      "question": "The D-Day invasion, a significant military operation during World War II, occurred on the beaches of which region?",
+      "answers": [
+        "Normandy, France",
+        "Zandvoort, Amsterdam",
+        "Siciliy, Italy",
+        "Okinawa, Japan"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "50" },
+      "question": "The Renaissance, a cultural movement emphasizing art and knowledge, originated in which region?",
+      "answers": [
+        "France",
+        "Germany",
+        "Italy",
+        "Spain"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "51" },
+      "question": "The term 'Cold War' primarily refers to the tension between which two superpowers?",
+      "answers": [
+        "China and Japan",
+        "United States and Soviet Union",
+        "Germany and France",
+        "United Kingdom and Spain"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "52" },
+      "question": "Which empire was primarily based in present-day Turkey?",
+      "answers": [
+        "Roman Empire",
+        "Ottoman Empire",
+        "Mughal Empire",
+        "Achaemenid Empire"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "53" },
+      "question": "Which explorer sailed for Spain and is credited with discovering the 'New World'?",
+      "answers": [
+        "John Cabot",
+        "Ferdinand Magellan",
+        "Christopher Columbus",
+        "Francisco Pizarro"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "54" },
+      "question": "Which ancient civilization developed hieroglyphic writing and constructed pyramids?",
+      "answers": [
+        "Sumerians",
+        "Mayans",
+        "Egyptians",
+        "Indus Valley"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "55" },
+      "question": "Who was the Queen of England during the Spanish Armada?",
+      "answers": [
+        "Queen Mary I",
+        "Queen Elizabeth I",
+        "Queen Victoria",
+        "Queen Anne"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "56" },
+      "question": "Which empire is known for its architectural marvel, the Taj Mahal?",
+      "answers": [
+        "Ottoman Empire",
+        "Safavid Empire",
+        "Mughal Empire",
+        "Persian Empire"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "57" },
+      "question": "Who was the primary author of the Federalist Papers?",
+      "answers": [
+        "Thomas Jefferson",
+        "James Madison",
+        "Benjamin Franklin",
+        "John Jay"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "58" },
+      "question": "Which battle marked the final defeat of Napoleon Bonaparte?",
+      "answers": [
+        "Battle of Trafalgar",
+        "Battle of Austerlitz",
+        "Battle of Waterloo",
+        "Battle of Leipzig"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "59" },
+      "question": "Which document, written in 1215, is considered a foundational stone of individual liberties?",
+      "answers": [
+        "Bill of Rights",
+        "Magna Carta",
+        "Declaration of Independence",
+        "Constitution"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "60" },
+      "question": "Which Chinese dynasty is credited with the invention of gunpowder, printing, and the compass?",
+      "answers": [
+        "Han Dynasty",
+        "Tang Dynasty",
+        "Qing Dynasty",
+        "Song Dynasty"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "61" },
+      "question": "Which American general led the troops in World War II's Pacific theater?",
+      "answers": [
+        "General Patton",
+        "General MacArthur",
+        "General Eisenhower",
+        "General Bradley"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "62" },
+      "question": "The Punic Wars were fought between Rome and which ancient city?",
+      "answers": [
+        "Athens",
+        "Carthage",
+        "Sparta",
+        "Persia"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "63" },
+      "question": "Which famous leader is known for his role in the Indian independence movement against British rule?",
+      "answers": [
+        "Nelson Mandela",
+        "Abraham Lincoln",
+        "Mahatma Gandhi",
+        "Martin Luther King Jr."
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "64" },
+      "question": "In which city did the infamous 'Black Death' plague first arrive in Europe?",
+      "answers": [
+        "Venice",
+        "London",
+        "Paris",
+        "Lisbon"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "65" },
+      "question": "Who was the founder of the Mongol Empire?",
+      "answers": [
+        "Kublai Khan",
+        "Attila the Hun",
+        "Genghis Khan",
+        "Tamujin"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "66" },
+      "question": "Which philosopher wrote the book 'The Republic'?",
+      "answers": [
+        "Aristotle",
+        "Immanuel Kant",
+        "Friedrich Nietzsche",
+        "Plato"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "67" },
+      "question": "Which empire was primarily responsible for the construction of the Taj Mahal?",
+      "answers": [
+        "Ottoman Empire",
+        "Mughal Empire",
+        "Persian Empire",
+        "Ming Dynasty"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "68" },
+      "question": "Which British suffragette played a key role in women's fight for the right to vote in the early 20th century?",
+      "answers": [
+        "Dorothy Parker",
+        "Jane Austen",
+        "Emmeline Pankhurst",
+        "Virginia Woolf"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "69" },
+      "question": "The 19th Amendment to the US Constitution granted which right to women?",
+      "answers": [
+        "Right to work",
+        "Right to divorce",
+        "Right to own property",
+        "Right to vote"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "70" },
+      "question": "Which feminist wrote 'The Second Sex', a foundational text of modern feminist philosophy?",
+      "answers": [
+        "Simone de Beauvoir",
+        "Betty Friedan",
+        "Gloria Steinem",
+        "Margaret Atwood"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "71" },
+      "question": "In which country did women first gain the right to vote in national elections?",
+      "answers": [
+        "United States",
+        "New Zealand",
+        "Canada",
+        "United Kingdom"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "72" },
+      "question": "What was the primary focus of the Women's Liberation Movement of the 1960s and 1970s?",
+      "answers": [
+        "Gaining the right to work",
+        "Promotion of birth control",
+        "Equal pay and reproductive rights",
+        "Women in political offices"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "73" },
+      "question": "Who gave the famous 'I Have a Dream' speech during the Civil Rights Movement in the US?",
+      "answers": [
+        "Malcolm X",
+        "James Baldwin",
+        "Martin Luther King Jr.",
+        "Rosa Parks"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "74" },
+      "question": "Which landmark legislation in the US prohibited racial discrimination in voting?",
+      "answers": [
+        "Civil Rights Act of 1964",
+        "Emancipation Proclamation",
+        "Voting Rights Act of 1965",
+        "Fair Housing Act"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "75" },
+      "question": "Which event is often considered the catalyst for the Civil Rights Movement in the 1950s?",
+      "answers": [
+        "The assassination of Malcolm X",
+        "The march on Washington",
+        "The Montgomery Bus Boycott",
+        "Brown vs. Board of Education ruling"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "76" },
+      "question": "Who was the first African American to serve on the US Supreme Court?",
+      "answers": [
+        "Barack Obama",
+        "Thurgood Marshall",
+        "Colin Powell",
+        "Clarence Thomas"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "77" },
+      "question": "In which South African city did the 1960 Sharpeville massacre, an event that played a significant role in drawing attention to apartheid, occur?",
+      "answers": [
+        "Johannesburg",
+        "Durban",
+        "Cape Town",
+        "Sharpeville"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "78" },
+      "question": "Who was the Byzantine emperor during the Nika Riots?",
+      "answers": [
+        "Justinian I",
+        "Constantine I",
+        "Basil II",
+        "Alexios I Komnenos"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "79" },
+      "question": "Which Chinese dynasty followed the Qin dynasty?",
+      "answers": ["Han", "Ming", "Song", "Tang"],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "80" },
+      "question": "Which civilization used cuneiform as a system of writing?",
+      "answers": [
+        "Ancient Egyptian",
+        "Minoan",
+        "Sumerian",
+        "Indus Valley"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "81" },
+      "question": "Who was the ruler of the Mongol Empire at its territorial peak?",
+      "answers": [
+        "Ogedei Khan",
+        "Kublai Khan",
+        "Genghis Khan",
+        "Batu Khan"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "82" },
+      "question": "Where was the ancient city of Caral located?",
+      "answers": [
+        "Mesopotamia",
+        "Mesoamerica",
+        "Peru",
+        "Indus Valley"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "83" },
+      "question": "Which Hellenistic kingdom was founded by a former general of Alexander the Great and was based in Egypt?",
+      "answers": [
+        "Seleucid",
+        "Antigonid",
+        "Ptolemaic",
+        "Attalid"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "84" },
+      "question": "Which medieval Islamic scholar wrote 'The Book of Healing' and 'The Canon of Medicine'?",
+      "answers": [
+        "Al-Farabi",
+        "Rumi",
+        "Al-Ghazali",
+        "Avicenna (Ibn Sina)"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "85" },
+      "question": "Which Mughal emperor commissioned the construction of the Taj Mahal?",
+      "answers": [
+        "Babur",
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "86" },
+      "question": "Which ancient civilization was located between the Tigris and Euphrates rivers?",
+      "answers": [
+        "Sumerian",
+        "Ancient Egyptian",
+        "Harappan",
+        "Minoan"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "87" },
+      "question": "Which medieval European kingdom was known for its use of the 'Tercio' military formation?",
+      "answers": [
+        "England",
+        "France",
+        "Spain",
+        "Holy Roman Empire"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "88" },
+      "question": "Which ship did the Pilgrims travel on to the New World?",
+      "answers": [
+        "Endeavour",
+        "Santa Maria",
+        "Mayflower",
+        "Discovery"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "89" },
+      "question": "Where was Napoleon Bonaparte exiled to after his defeat at Waterloo?",
+      "answers": [
+        "Corsica",
+        "Elba",
+        "Sicily",
+        "Saint Helena"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "90" },
+      "question": "What ancient wonder was located in the city of Alexandria?",
+      "answers": [
+        "Colossus of Rhodes",
+        "Lighthouse of Alexandria (Pharos)",
+        "Mausoleum at Halicarnassus",
+        "Hanging Gardens of Babylon"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "91" },
+      "question": "Which empire was known for its legions?",
+      "answers": [
+        "Mongol Empire",
+        "Ottoman Empire",
+        "Roman Empire",
+        "Persian Empire"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "92" },
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "answers": [
+        "Britain",
+        "France",
+        "Germany",
+        "Canada"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "93" },
+      "question": "Who was known as the 'Maid of Orléans'?",
+      "answers": [
+        "Cleopatra",
+        "Joan of Arc",
+        "Mary Queen of Scots",
+        "Anne Boleyn"
+      ],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "94" },
+      "question": "What was the main reason for the sinking of the Titanic?",
+      "answers": [
+        "Fire",
+        "Collision with another ship",
+        "Iceberg",
+        "Storm"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "95" },
+      "question": "Which wall was built to separate East and West Berlin?",
+      "answers": [
+        "Great Wall of China",
+        "Hadrian's Wall",
+        "Berlin Wall",
+        "Wailing Wall"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "96" },
+      "question": "Which organization published a series of leaks by whistleblower Chelsea Manning in 2010?",
+      "answers": [
+        "New York Times",
+        "The Guardian",
+        "WikiLeaks",
+        "Reuters"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "97" },
+      "question": "Which country voted to leave the European Union in a 2016 referendum?",
+      "answers": [
+        "France",
+        "Germany",
+        "Greece",
+        "United Kingdom"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "98" },
+      "question": "In which year was the Paris Agreement, an accord within the United Nations Framework Convention on Climate Change, signed?",
+      "answers": ["2012", "2015", "2018", "2021"],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "99" },
+      "question": "Who became the first female Vice President of the United States in 2021?",
+      "answers": [
+        "Sarah Palin",
+        "Hillary Clinton",
+        "Kamala Harris",
+        "Elizabeth Warren"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "100" },
+      "question": "The Khmer Rouge regime, responsible for the deaths of nearly a quarter of Cambodia's population, took power in which year?",
+      "answers": ["1970", "1975", "1980", "1985"],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "101" },
+      "question": "In which year did the Chernobyl nuclear disaster occur in the Soviet Union?",
+      "answers": ["1982", "1986", "1989", "1991"],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "102" },
+      "question": "The Rwandan genocide, where hundreds of thousands of Tutsis were killed by ethnic Hutus, took place in which year?",
+      "answers": ["1990", "1994", "1998", "2002"],
+      "correct_answer": { "$numberInt": "1" }
+    },
+    {
+      "number": { "$numberInt": "103" },
+      "question": "Which country was most directly affected by the 2004 Indian Ocean tsunami?",
+      "answers": [
+        "Malaysia",
+        "India",
+        "Sri Lanka",
+        "Indonesia"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "104" },
+      "question": "Which whistleblower, responsible for the NSA leaks revealing global surveillance programs, sought asylum in Russia in 2013?",
+      "answers": [
+        "Julian Assange",
+        "Bradley (now Chelsea) Manning",
+        "Daniel Ellsberg",
+        "Edward Snowden"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "105" },
+      "question": "What major event is widely recognized as the trigger for the Global Financial Crisis in 2008?",
+      "answers": [
+        "The bursting of the dot-com bubble",
+        "The European sovereign debt default",
+        "The collapse of Lehman Brothers",
+        "The devaluation of the Chinese Yuan"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "106" },
+      "question": "Which of the following medieval institutions played a central role in preserving knowledge and education in Europe?",
+      "answers": [
+        "The Monastery",
+        "The Guild",
+        "The Manor House",
+        "The Market"
+      ],
+      "correct_answer": { "$numberInt": "0" }
+    },
+    {
+      "number": { "$numberInt": "107" },
+      "question": "Which of the following is NOT one of the medieval knightly virtues?",
+      "answers": [
+        "Courage",
+        "Loyalty",
+        "Greed",
+        "Honor"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    },
+    {
+      "number": { "$numberInt": "108" },
+      "question": "What was the primary language of the scholars during the Middle Ages in Europe?",
+      "answers": [
+        "French",
+        "English",
+        "German",
+        "Latin"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "109" },
+      "question": "Which empire was primarily responsible for the capture of Constantinople in 1453?",
+      "answers": [
+        "The Holy Roman Empire",
+        "The Byzantine Empire",
+        "The Mongol Empire",
+        "The Ottoman Empire"
+      ],
+      "correct_answer": { "$numberInt": "3" }
+    },
+    {
+      "number": { "$numberInt": "110" },
+      "question": "Which famous historical figure led the Third Crusade?",
+      "answers": [
+        "Saladin",
+        "Charlemagne",
+        "Richard the Lionheart",
+        "Edward the Black Prince"
+      ],
+      "correct_answer": { "$numberInt": "2" }
+    }
+  ]
+}
